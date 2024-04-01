@@ -1,8 +1,9 @@
 import sys
+input=sys.stdin.readline
 
-n = int(sys.stdin.readline())
-sum , cnt = 0, 0
-for i in sys.stdin.readline().rstrip():
-    sum+=(ord(i)-96) * ((31)**(cnt))
-    cnt+=1
-print(sum)
+n=int(input())
+s=input().rstrip()
+sum=0
+for i in range(n):
+    sum+= (ord(s[i])-96)*(31**i)
+print(sum%1234567891)
