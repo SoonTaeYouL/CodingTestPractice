@@ -1,16 +1,14 @@
 # [level 1] 같은 숫자는 싫어 - 12906 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12906) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=javascript) 
 
 ### 성능 요약
 
-메모리: 27.9 MB, 시간: 132.77 ms
+메모리: 90.4 MB, 시간: 61.86 ms
 
 ### 구분
 
-코딩테스트 연습
- > 스택／큐
-
+코딩테스트 연습 > 스택／큐
 
 ### 채점결과
 
@@ -18,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 11월 5일 15:57:42
+2024년 11월 20일 16:12:39
 
 ### 문제 설명
 
