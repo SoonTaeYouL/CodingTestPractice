@@ -1,6 +1,6 @@
 def solution(n):
     s = ""
-    answer = [int(i) for i in str(n)]
+    answer = list(str(n))
     answer.sort(reverse=True)
     for i in answer:
         s +=str(i)
